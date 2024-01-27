@@ -23,5 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 # folders
-/DownloadedSongs
-/SongsImages
+/src/DownloadedSongs
+/src/SongsImages
